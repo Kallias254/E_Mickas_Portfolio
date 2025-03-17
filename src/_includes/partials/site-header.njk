@@ -2,7 +2,11 @@
   <div class="site-header__container">
     <span class="site-header__logo-container">
       <a class="site-header__logo" href="{{ '/' | url }}" aria-label="Logo">
-        {{ global.logo | svg | safe }}
+        {% if global.logo and global.logo | endsWith('.svg') %}
+          {{ global.logo | svg | safe }}
+        {% else %}
+          <img src="{{ global.logo | url }}" alt="Site logo" class="site-header__logo-img">
+        {% endif %}
       </a>
     </span>
     <button

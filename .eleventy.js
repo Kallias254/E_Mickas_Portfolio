@@ -21,6 +21,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("readableDate", readableDateFilter);
   eleventyConfig.addFilter("machineDate", machineDateFilter);
   eleventyConfig.addFilter("svg", svgFilter);
+  eleventyConfig.addFilter("endsWith", function(str, suffix) {
+    return str.endsWith(suffix);
+  });
   // eleventyConfig.addFilter("resolvePath", function (path) {
   //   return path.startsWith("/") ? path.slice(1) : path;
   // });
