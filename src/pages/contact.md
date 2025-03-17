@@ -1,15 +1,18 @@
 ---
 section: contact
 layout: contact.njk
-title: Get in touch
-metaDescription: Get in touch to transform your business operations.
-  Professional Virtual Assistant offering streamlined solutions for
-  entrepreneurs and small businesses.
-date: 2018-01-01
+title: Get in Touch
+metaDescription: Reach out to Emmanuel Mickas for expert copywriting and transcription services. Let's create compelling content that connects with your audience.
+date: 2024-03-17
 permalink: /contact/index.html
-subtitle: Contact Subtitle
+subtitle: Let's Work Together
 eleventyNavigation:
   key: Contact
   order: 4
 ---
-Let's discuss how I can help streamline your business operations. Reach out at va@sarahmunyoki.com or use the form below to start our conversation.
+
+Let’s discuss how I can help with your copywriting and transcription needs. Reach out at
+
+📩 mickas@themickasedge.com
+
+Or simply fill out the form below:

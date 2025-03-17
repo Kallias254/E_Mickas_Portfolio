@@ -1,35 +1,31 @@
 ---
 title: About Me
-subtitle: Your Virtual Partner in Business Excellence
-profileImage: /assets/img/munyoki.jpg
-metaDescription: Experienced Virtual Assistant specializing in project
-  management, systems optimization, and administrative support. 3+ years of
-  helping businesses streamline operations and achieve growth.
-date: 2017-01-01T00:00:00.000Z
+subtitle: Crafting Words That Resonate and Transcriptions That Reflect
+profileImage: /assets/img/mickas.jpg
+metaDescription: Skilled Copywriter and Transcription Specialist with a passion for delivering clear, compelling, and accurate content. Dedicated to helping businesses communicate effectively and authentically.
+date: 2025-03-17T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-With a background in business administration and certification in project management, I bring both expertise and enthusiasm to every project. My approach combines:
 
-* Meticulous attention to detail
-* Strong communication skills
-* Tech-savvy solutions
-* Proactive problem-solving
 
-### **Core Skills:**
+Hi! I'm Emmanuel Mickas, a dedicated Copywriter and Transcription Specialist committed to delivering clear, compelling, and impactful content. I excel in crafting persuasive copy and providing accurate transcriptions, ensuring your message resonates with your audience. Let's collaborate to create content that connects and converts.
 
-* Project Management (Asana, Trello)
-* Email Management & Customer Service
-* Calendar Management & Scheduling
-* CRM Management (HubSpot, Salesforce)
-* Documentation & SOP Creation
-* Basic Bookkeeping (QuickBooks)
+**Core Skills:**
 
-### **Industries Served:**
+- **Copywriting:** Crafting persuasive and engaging content tailored to your brand's voice.
+- **Transcription:** Providing precise and timely transcriptions with meticulous attention to detail.
+- **Editing and Proofreading:** Ensuring clarity, coherence, and correctness in all written materials.
+- **Research:** Conducting thorough research to inform and enrich content.
+- **Time Management:** Delivering high-quality work within deadlines.
 
-* Technology Startups
-* E-commerce Businesses
-* Professional Services
-* Creative Agencies
+**Industries Served:**
+
+- **Marketing and Advertising:** Creating compelling copy for campaigns and promotional materials.
+- **Media and Entertainment:** Transcribing interviews, podcasts, and videos with accuracy.
+- **Education:** Developing educational content and transcribing academic lectures.
+- **Legal and Medical:** Providing specialized transcription services adhering to industry standards.
+
+With a strong command of language and a keen eye for detail, I am dedicated to helping you communicate effectively and achieve your content goals.
