@@ -36,20 +36,51 @@
   font-weight: 700;
 }
 
+/*custom code*/
+.site-header__logo-img {
+  margin-top: 25px;
+  max-height: 40px; // Match the height constraint
+  width: auto;      // Let width adjust automatically
+  object-fit: contain;
+  
+  @media (min-width: 1024px) {
+    max-height: 50px; // Match desktop height constraint
+  }
+}
+
 .site-header__logo {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 30px;
+  // Remove the fixed width constraint
+  // width: 30px; 
   height: 30px;
-  padding: 6px 8px;
+  padding: 0px;
+  margin-left: 10px;
   border-radius: var(--border-radius-sm);
   color: var(--color-text);
 
   @media (min-width: 1024px) {
-    width: 40px;
+    // width: 40px;
     height: 40px;
   }
+
+  .logo-dark-mode {
+    display: none; /* Changed from block to none */
+    
+    :root[data-theme="dark"] & {
+      display: block; /* Changed from none to block */
+    }
+  }
+  
+  .logo-light-mode {
+    display: block; /* Changed from none to block */
+    
+    :root[data-theme="dark"] & {
+      display: none; /* Changed from block to none */
+    }
+  }
+/*end of custom code*/  
 
   &:hover {
     border-bottom: none;

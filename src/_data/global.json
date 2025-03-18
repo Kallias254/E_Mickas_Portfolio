@@ -1,5 +1,6 @@
 {
-  "logo": "/assets/img/mickas-1-.png",
+  "logo_light": "assets/img/logo-light.png",
+  "logo_dark": "assets/img/logo-dark.png",
   "menu_icon": "src/assets/img/icon-hamburger.svg",
   "close_icon": "src/assets/img/icon-close.svg",
   "enable_theme_switch": true,

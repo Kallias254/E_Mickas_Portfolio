@@ -1,14 +1,20 @@
 <header class="site-header">
   <div class="site-header__container">
-    <span class="site-header__logo-container">
-      <a class="site-header__logo" href="{{ '/' | url }}" aria-label="Logo">
-        {% if global.logo and global.logo | endsWith('.svg') %}
-          {{ global.logo | svg | safe }}
-        {% else %}
-          <img src="{{ global.logo | url }}" alt="Site logo" class="site-header__logo-img">
-        {% endif %}
-      </a>
-    </span>
+<span class="site-header__logo-container">
+  <a class="site-header__logo" href="{{ '/' | url }}" aria-label="Logo">
+    {% if global.logo_dark and global.logo_light %}
+      <!-- If both dark/light logos are defined, use them conditionally -->
+      <img src="{{ global.logo_dark | url }}" alt="Site logo" class="site-header__logo-img logo-dark-mode">
+      <img src="{{ global.logo_light | url }}" alt="Site logo" class="site-header__logo-img logo-light-mode">
+    {% elseif global.logo and global.logo | endsWith('.svg') %}
+      <!-- SVG logo fallback -->
+      {{ global.logo | svg | safe }}
+    {% elseif global.logo %}
+      <!-- Single image logo fallback -->
+      <img src="{{ global.logo | url }}" alt="Site logo" class="site-header__logo-img">
+    {% endif %}
+  </a>
+</span>
     <button
       class="site-header__mobile-nav"
       data-drawer-trigger=""

@@ -10,7 +10,6 @@ eleventyNavigation:
   order: 1
 ---
 
-
 Hi! I'm Emmanuel Mickas, a dedicated Copywriter and Transcription Specialist committed to delivering clear, compelling, and impactful content. I excel in crafting persuasive copy and providing accurate transcriptions, ensuring your message resonates with your audience. Let's collaborate to create content that connects and converts.
 
 **Core Skills:**
