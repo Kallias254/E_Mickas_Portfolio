@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: "Crafting Words That Resonate and Transcriptions That Reflect "
+subtitle: Crafting Words That Resonate and Transcriptions That Reflect (Update)
 profileImage: /assets/img/mickas.jpg
 metaDescription: Skilled Copywriter and Transcription Specialist with a passion
   for delivering clear, compelling, and accurate content. Dedicated to helping
