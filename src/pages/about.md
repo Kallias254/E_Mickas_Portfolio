@@ -1,9 +1,11 @@
 ---
 title: About Me
-subtitle: Crafting Words That Resonate and Transcriptions That Reflect
+subtitle: "Crafting Words That Resonate and Transcriptions That Reflect "
 profileImage: /assets/img/mickas.jpg
-metaDescription: Skilled Copywriter and Transcription Specialist with a passion for delivering clear, compelling, and accurate content. Dedicated to helping businesses communicate effectively and authentically.
-date: 2025-03-17T00:00:00.000Z
+metaDescription: Skilled Copywriter and Transcription Specialist with a passion
+  for delivering clear, compelling, and accurate content. Dedicated to helping
+  businesses communicate effectively and authentically.
+date: 2025-08-31T17:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
